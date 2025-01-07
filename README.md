@@ -3,15 +3,13 @@
 ```markdown
 # DevDetective
 
-A simple and interactive web tool that allows users to explore and discover developer-related resources, tools, and information, built using **HTML**, **CSS**, and **JavaScript**.
+A simple and interactive web tool that allows users to explore and discover developer-related resources, tools, and information, built using HTML, CSS, and JavaScript.
 
 ## 🌟 Features
-- **User-Friendly Interface**: Designed for smooth navigation and ease of use.
-- **Interactive Design**: Leverages JavaScript to create dynamic and responsive elements.
-- **Custom Styling**: Clean and professional styling with CSS.
+- User-Friendly Interface: Designed for smooth navigation and ease of use.
+- Interactive Design: Leverages JavaScript to create dynamic and responsive elements.
+- Custom Styling: Clean and professional styling with CSS.
 
-## 🚀 Demo
-Check out the live demo of DevDetective [here](#). *(Add your live demo link here if available)*
 
 ## 📂 Project Structure
 ```
@@ -23,9 +21,9 @@ DevDetective/
 ```
 
 ## 🛠️ Technologies Used
-- **HTML5**: For structure and content.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For functionality and interactivity.
+- HTML5: For structure and content.
+- CSS3: For styling and layout.
+- JavaScript: For functionality and interactivity.
 
 ## 🖥️ Getting Started
 
@@ -43,8 +41,6 @@ Ensure you have a browser like Chrome or Firefox installed to view the project.
    ```
 3. Open the `index.html` file in your browser to view the project.
 
-## 📷 Preview
-*(Add screenshots or GIFs showcasing your project here)*
 
 ## 🌐 Contributions
 Contributions are welcome!  
