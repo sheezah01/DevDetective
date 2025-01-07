@@ -3,7 +3,7 @@
 ```markdown
 # DevDetective
 
-A simple and interactive web tool that allows users to explore and discover developer-related resources, tools, and information, built using **HTML**, **CSS**, and **JavaScript**.
+A simple and interactive web tool that allows users to explore and discover developer-related resources, tools, and information, built using HTML, CSS, and JavaScript.
 
 ## 🌟 Features
 - **User-Friendly Interface**: Designed for smooth navigation and ease of use.
